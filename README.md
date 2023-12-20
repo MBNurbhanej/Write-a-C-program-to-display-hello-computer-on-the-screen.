@@ -1,1 +1,1 @@
-# Write-a-C-program-to-display-hello-computer-on-the-screen.
+# Write-a-C-program-to-display-Hello-computer-on-the-screen.
